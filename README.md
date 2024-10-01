@@ -1,4 +1,4 @@
-# Sprint_11_insurance
+# TT Sprint_11_insurance
 This is a repository for TT Sprint 11 project using machine learning models to predict customer insurance benefits. This project:
 
 - Used machine learning to identify similar customers to support marketing activities, predict customers likely to receive an insurance benefit and the number of benefits, and protect clients’ personal data through a data transformation algorithm (data masking/obfuscation).
